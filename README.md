@@ -1,2 +1,2 @@
 # HRIS-Dev
-Human resoucre information stystem
+Human resoucre information system
